@@ -1,21 +1,16 @@
 # Catmull-Rom
 > Implementation of Catmull-Rom spline in Desmos
 
-Here is the [link](https://www.desmos.com/calculator/6hcgyvkisa) to the graph.
+# Preview
+Link to the graph: https://www.desmos.com/calculator/6hcgyvkisa
 
-## Preview
-<iframe src="https://www.desmos.com/calculator/6hcgyvkisa?embed" width="500" height="500" style="border: 1px solid #c0514f" frameborder=0></iframe>
+# Images
 
+<img src="images/controller.png" alt="controller" width="450" height="450"/>
 
-### Images
-
-![petal](images/controller.png)
-
-![petal](images/petals.png)
+<img src="images/petals.png" alt="petals" width="450" height="450"/>
 
 <details>
   <summary>Nothing to see here 👀 ඞඞ </summary>
-
-  ![sus](images/sus.png)
+  <img src="images/sus.png" alt="sus" width="450" height="450"/>
 </details>
-
